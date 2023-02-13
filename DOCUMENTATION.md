@@ -54,7 +54,7 @@
 
 *Εδώ σε ξεχωριστό notebook αφαιρέσαμε τις παραπάνω στήλες, έτσι ώστε να έχουμε ένα df μόνο με την αναλογία των ατυχημάτων και των τραυματισμών ανά έτος*
 
--**df3** (= df.drop(['minor_injuries','serious_injuries','no_injuries', 'all_incidents', 'total_injuries'],axis=1))
+- **df3** (= df.drop(['minor_injuries','serious_injuries','no_injuries', 'all_incidents', 'total_injuries'],axis=1))
 
 *Eδώ αφαιρέσαμε διαφορετικές, ετσι ώστε να έχουμε ένα df με τους θανάτους ανά έτος*
 
